@@ -1,6 +1,8 @@
 # LittleFakes
 
-TODO: Write a gem description
+**Version: 0.1.0**
+
+A simple mocking library for SSH sessions
 
 ## Installation
 
